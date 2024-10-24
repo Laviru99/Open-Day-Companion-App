@@ -6,16 +6,18 @@ This project is an Android application developed to assist students and visitors
 ## Screenshots
 
 ### Mainpages
-![Screenshot](capture1.png "Open Day Companion App")
-![Screenshot](capture2.png "Open Day Companion App")
-![Screenshot](capture3.png "Open Day Companion App")
-![Screenshot](capture4.png "Open Day Companion App")
-![Screenshot](capture5.png "Open Day Companion App")
-![Screenshot](capture10.png "Open Day Companion App")
-![Screenshot](capture7.png "Open Day Companion App")
-![Screenshot](capture8.png "Open Day Companion App")
-![Screenshot](capture6.png "Open Day Companion App")
-![Screenshot](capture9.png "Open Day Companion App")
+<p float="left">
+   <img src="capture1.png" alt="Open Day Companion App" width="200" />
+   <img src="capture2.png" alt="Open Day Companion App" width="200" />
+   <img src="capture3.png" alt="Open Day Companion App" width="200" />
+   <img src="capture4.png" alt="Open Day Companion App" width="200" />
+   <img src="capture5.png" alt="Open Day Companion App" width="200" />
+   <img src="capture10.png" alt="Open Day Companion App" width="200" />
+   <img src="capture7.png" alt="Open Day Companion App" width="200" />
+   <img src="capture8.png" alt="Open Day Companion App" width="200" />
+   <img src="capture9.png" alt="Open Day Companion App" width="200" />
+   <img src="capture6.png" alt="Open Day Companion App" width="200" />
+</p>
 
 ## Features
 
